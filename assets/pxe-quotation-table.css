@@ -1,0 +1,16 @@
+.pxe-quotation-table {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pxe-quotation-table tr {
+    border-bottom: 1px dashed #eaeaea;
+}
+.pxe-quotation-table tr:hover {
+    background-color: #eeeeee;
+}
+.pxe-quotation-table .currency { width: 50%; }
+.pxe-quotation-table .buy, 
+.pxe-quotation-table .sell { 
+    width: 25%; 
+    text-align: right; 
+}
